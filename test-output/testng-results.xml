@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11310" started-at="2018-01-11T14:40:56Z" finished-at="2018-01-11T14:41:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11310" started-at="2018-01-11T14:40:56Z" finished-at="2018-01-11T14:41:07Z">
+      <class name="com.test.testmain.DriverHybridTest">
+        <test-method status="PASS" signature="setTest()[pri:0, instance:com.test.testmain.DriverHybridTest@6043cd28]" name="setTest" is-config="true" duration-ms="4290" started-at="2018-01-11T20:10:56Z" finished-at="2018-01-11T20:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTest -->
+        <test-method status="PASS" signature="hybridTest()[pri:0, instance:com.test.testmain.DriverHybridTest@6043cd28]" name="hybridTest" duration-ms="6165" started-at="2018-01-11T20:11:00Z" finished-at="2018-01-11T20:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hybridTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testmain.DriverHybridTest@6043cd28]" name="tearDown" duration-ms="803" started-at="2018-01-11T20:11:06Z" finished-at="2018-01-11T20:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testmain.DriverHybridTest@6043cd28]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-01-11T20:11:07Z" finished-at="2018-01-11T20:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.testmain.DriverHybridTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
