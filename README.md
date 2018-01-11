@@ -1,0 +1,2 @@
+# HybridTestingFramework
+This is a sample hybrid test automation framework. The program reads an external excel file and executes the automation accordingly. In other words, the test engineer can execute an automation by simply typing commands(english words) into an excel sheet. The program will automatically execute the automation steps by the reading commands of the excel sheet. Thus the test engineer can implement selenium automations without having knowledge about the code. 
